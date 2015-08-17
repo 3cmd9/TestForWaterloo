@@ -7,7 +7,7 @@ package farts;
 
 /**
  *
- * @author Ciara
+ * @author 
  */
 public class FartsGui extends javax.swing.JFrame {
 

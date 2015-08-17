@@ -18,7 +18,7 @@ import sun.audio.AudioStream;
 
 /**
  *
- * @author Ciara
+ * @author 
  */
 public class Farts {
 
