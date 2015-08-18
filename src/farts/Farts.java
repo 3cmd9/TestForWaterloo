@@ -32,6 +32,7 @@ public class Farts {
         InputStream in = new FileInputStream(path);
         AudioStream audio = new AudioStream(in);
         AudioPlayer.player.start(audio);
+        String x;
         
 
         /* Set the Nimbus look and feel */
